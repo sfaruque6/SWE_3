@@ -1,0 +1,10 @@
+Reviewers: Samuel Calmday, Esterie A Bruno, Sarim Faruque
+
+
+Description: This is a report summary reviewing each person’s program in software engineering. The objective is to recreate the popular game Boggle via the Javascript language. In Boggle, the player must connect letters in a two-dimensional grid to create a word in any direction without repeating letters. The boggle_solver_js file determines whether a solution is possible. Each person briefly critiqued the others’ code to determine organization and readability, and if there are any defects present.
+
+
+Defects found: One program lacked proper documentation that tells what a function or algorithm procedure is supposed to do, and took too many steps and space. Another code was more concise and organized, but some nested loops lacked indentation. Both files did not have proper JSDoc documentation.
+
+
+Review summary: The reviews were brief and mostly focused on easily noticeable defects. There were not too many listed, and the reviews mostly focused on whether or not the code worked as intended without edge cases. Moreover, the reviewers also listed the positives of each file, such as both codes being readable. The reviews overall focused more on organization and readability, as well as function documentation.
